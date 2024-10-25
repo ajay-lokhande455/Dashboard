@@ -175,6 +175,7 @@ main{
 .project-card{
    display: flex;
    height: 190px;
+   width: 100%;
    border-left: 6px solid orange;
    background-color: #fff;
    border-radius: 5px;
